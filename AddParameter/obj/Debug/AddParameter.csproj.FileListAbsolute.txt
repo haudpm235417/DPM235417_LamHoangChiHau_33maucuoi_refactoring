@@ -1,0 +1,15 @@
+d:\Bảo Trì Phần Mềm\DPM235518_NguyenTanThanh_Tuan04_30MauCuoi_Refactoring\AddParameter\obj\Debug\AddParameter.csproj.AssemblyReference.cache
+d:\Bảo Trì Phần Mềm\DPM235518_NguyenTanThanh_Tuan04_30MauCuoi_Refactoring\AddParameter\obj\Debug\AddParameter.csproj.CoreCompileInputs.cache
+d:\Bảo Trì Phần Mềm\DPM235518_NguyenTanThanh_Tuan04_30MauCuoi_Refactoring\AddParameter\bin\Debug\AddParameter.exe.config
+d:\Bảo Trì Phần Mềm\DPM235518_NguyenTanThanh_Tuan04_30MauCuoi_Refactoring\AddParameter\bin\Debug\AddParameter.exe
+d:\Bảo Trì Phần Mềm\DPM235518_NguyenTanThanh_Tuan04_30MauCuoi_Refactoring\AddParameter\bin\Debug\AddParameter.pdb
+d:\Bảo Trì Phần Mềm\DPM235518_NguyenTanThanh_Tuan04_30MauCuoi_Refactoring\AddParameter\obj\Debug\AddParameter.exe
+d:\Bảo Trì Phần Mềm\DPM235518_NguyenTanThanh_Tuan04_30MauCuoi_Refactoring\AddParameter\obj\Debug\AddParameter.pdb
+d:\Bảo Trì Phần Mềm\DPM235518_NguyenTanThanh_Tuan04_30MauCuoi_Refactoring\AddParameter\obj\Debug\AddParameter.exe.config
+D:\Bảo trì\DPM235417_LamHoangChiHau_30MauCuoi_Refactoring\AddParameter\bin\Debug\AddParameter.exe.config
+D:\Bảo trì\DPM235417_LamHoangChiHau_30MauCuoi_Refactoring\AddParameter\bin\Debug\AddParameter.exe
+D:\Bảo trì\DPM235417_LamHoangChiHau_30MauCuoi_Refactoring\AddParameter\bin\Debug\AddParameter.pdb
+D:\Bảo trì\DPM235417_LamHoangChiHau_30MauCuoi_Refactoring\AddParameter\obj\Debug\AddParameter.csproj.AssemblyReference.cache
+D:\Bảo trì\DPM235417_LamHoangChiHau_30MauCuoi_Refactoring\AddParameter\obj\Debug\AddParameter.csproj.CoreCompileInputs.cache
+D:\Bảo trì\DPM235417_LamHoangChiHau_30MauCuoi_Refactoring\AddParameter\obj\Debug\AddParameter.exe
+D:\Bảo trì\DPM235417_LamHoangChiHau_30MauCuoi_Refactoring\AddParameter\obj\Debug\AddParameter.pdb
